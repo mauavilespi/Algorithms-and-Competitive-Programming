@@ -1,4 +1,4 @@
-# Competitive-Programming
+# Competitive Programming
 ## GeeksForGeeks
 
 - kth Smallest Element
