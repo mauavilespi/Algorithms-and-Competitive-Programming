@@ -11,3 +11,14 @@ int getCount(struct Node* head){
     return aux;
 }
 
+
+//SECOND FUNCTION (christianT)
+int getCount(struct Node* head){
+    int aux;
+    for(int i=1; head!=NULL; i++){
+        head= head->next;
+        aux=i;
+    }
+    return aux;
+}
+
