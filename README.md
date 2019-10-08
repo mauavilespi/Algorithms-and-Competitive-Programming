@@ -2,7 +2,8 @@
 ## GeeksForGeeks
 
 - kth Smallest Element
-- Find Number of Numbers 
+- Find Number of Numbers
+- Count nodes of linked list
 
 ## UVa Online Judge
 
